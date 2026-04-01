@@ -20,6 +20,13 @@ Add to your `Cargo.toml`:
 
 ```toml
 [dependencies]
+proto-parser = "0.2"
+```
+
+Or use the development version from GitHub:
+
+```toml
+[dependencies]
 proto-parser = { git = "https://github.com/lasorda/proto-rs" }
 ```
 
