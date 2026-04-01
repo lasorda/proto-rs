@@ -4,5 +4,6 @@ version = "0.1.0"
 edition = "2021"
 description = "A .proto file parser (proto2, proto3, editions) — Rust port of github.com/emicklei/proto"
 license = "MIT"
+repository = "https://github.com/lasorda/proto-rs"
 
 [dependencies]
